@@ -14,10 +14,8 @@ info:
   description:
     $ref: ./info-description.md
 tags:
-  - name: Echo
-    description: Example echo operations.
-  - name: User
-    description: Operations about users.
+  - name: ImportEmployee
+    description: This API provides ability to create multiple employees with multiple companies in bulk. An Employee record contains a company identification for which an employee is to be registered. For an Agency worker Agency Details can also be provided.
   - name: Tag
     description: This is a tag description.
 servers:
