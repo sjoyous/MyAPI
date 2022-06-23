@@ -1,16 +1,16 @@
 openapi: 3.1.0
 info:
   version: 1.0.0
-  title: Example.com
-  termsOfService: 'https://example.com/terms/'
+  title: BrainPayroll API
+  termsOfService: 'https://brainpayroll.com/terms/'
   contact:
-    email: contact@example.com
-    url: 'http://example.com/contact'
+    email: support@brainpayroll.co.uk
+    url: 'http://brainpayroll.com/contact'
   license:
     name: Apache 2.0
     url: 'http://www.apache.org/licenses/LICENSE-2.0.html'
   x-logo:
-    url: 'https://redocly.github.io/openapi-template/logo.png'
+    url: 'https://brainpayrollwebuat.brainteclabs.com/Content/Images/payroll_demo.svg'
   description:
     $ref: ./info-description.md
 tags:
